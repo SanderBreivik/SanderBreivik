@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[Here is my personal website, go check it out!](https://sanderbreivik.no)
 <!--
 **SanderBreivik/SanderBreivik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
